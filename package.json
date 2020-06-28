@@ -1,0 +1,24 @@
+{
+  "name": "hello-web",
+  "version": "0.1.0",
+  "description": "A minimal Node.js web application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zource-dev/hello-web.git"
+  },
+  "keywords": [],
+  "author": "Ivan Zakharchanka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zource-dev/hello-web/issues"
+  },
+  "homepage": "https://github.com/zource-dev/hello-web#readme"
+}

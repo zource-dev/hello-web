@@ -2,6 +2,6 @@
   "name": "Node.js Hello Web",
   "description": "A minimal Node.js web application",
   "repository": "https://github.com/zource-dev/hello-web",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "logo": "https://nodejs.org/static/images/favicons/apple-touch-icon.png",
   "keywords": ["node", "web", "http", "hello web"]
 }
